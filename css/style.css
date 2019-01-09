@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|PT+Serif');
+
+body{
+font-family: 'PT Serif', serif;;
+
+}
+
+.junbotron{
+	border-radius: 0px !important;
+}
+
+.fundo--color{
+	background-color: #00b9f2 !important;
+}
+
+
