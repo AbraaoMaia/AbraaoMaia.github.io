@@ -3,14 +3,60 @@
 body{
 font-family: 'PT Serif', serif;;
 
+
+}
+
+.navzinha{
+	width: 2000px;
+	height: 200px;
+	
+
 }
 
 .junbotron{
 	border-radius: 0px !important;
 }
 
-.fundo--color{
-	background-color: #00b9f2 !important;
+
+.imagem-float{
+	float: right;
+	border-radius: 20%;
+	width: 150px;
+	height: 150px;
+}	
+
+.float-imagem{
+	float: right;
+	border-radius: 20%;
+	width: 200px;
+	height: 200px;
+
+
 }
+
+.imagem--fundo{
+	background-repeat: no-repeat; 
+	background-image:  url("../img/fundinho.jpg");
+
+	
+}
+
+.containerjumbotron{
+	background-color: white;
+	width: 500px;
+	height: 700px;
+
+}
+
+.container{
+	background-color: white;
+
+
+}
+
+
+
+
+
 
 

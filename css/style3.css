@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|PT+Serif');
+
+body{
+font-family: 'PT Serif', serif;
+}
+
+.imagem-float{
+	float: right;
+	border-radius: 20%;
+	width: 150px;
+	height: 150px;
+}	
+.junbotron{
+	border-radius: 0px !important;
+}
